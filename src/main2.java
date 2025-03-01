@@ -6,7 +6,7 @@ public class main2 {
         int pilihan;
         String Username = "gilang";
         String Password = "123";
-        String Nama = "Gilang saputra";
+        String Nama = "Gilang saputraa";
         long NIM = 202410370110117l;
 
         Scanner objInput = new Scanner(System.in);
