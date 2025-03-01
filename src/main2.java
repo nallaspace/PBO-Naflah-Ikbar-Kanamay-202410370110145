@@ -4,10 +4,10 @@ public class main2 {
     public static void main(String[] args){
 
         int pilihan;
-        String Username = "gilang";
+        String Username = "nala";
         String Password = "123";
-        String Nama = "Gilang saputra";
-        long NIM = 202410370110117l;
+        String Nama = "Naflah ikbar kanamay";
+        long NIM = 202410370110145;
 
         Scanner objInput = new Scanner(System.in);
 
